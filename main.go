@@ -44,7 +44,7 @@ func main()  {
 }
 
 type Response struct {
-	status bool
+	status bool 
 	message string
 	data interface{}
 }
